@@ -2,7 +2,7 @@
 
 # Redir
 
-Redirects neovim's [cmdline](https://neovim.io/doc/user/cmdline.html) output to a modifiable buffer.
+Archived: deprecated in favor of Neovim's native `vim._core.ui2` message and cmdline presentation layer. Redirects neovim's [cmdline](https://neovim.io/doc/user/cmdline.html) output to a modifiable buffer.
 
 ## Motivation
 
